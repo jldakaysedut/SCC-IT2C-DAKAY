@@ -33,9 +33,9 @@ public class JavaApplication1 {
         gr.addGrades(500, "loydi", 2.5, 3.5, 3.1, 3.1);
         gr.viewGrades(); */
            
-        /* Grade gr = new Grade();
+        Grade gr = new Grade();
         gr.Grade();
-        */
+        
 
         
         

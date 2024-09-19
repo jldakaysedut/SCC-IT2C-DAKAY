@@ -32,7 +32,7 @@ public class Grades {
     }
         
         
-        System.out.printf("%-10d %-10s %-10.2f %-10.2f %-10.2f %-10.2f %-10.2f %-10s \n",
+        System.out.printf("%-10d %-10s %-10.1f %-10.1f %-10.1f %-10.1f %-10.2f %-10s \n",
                 this.studentid, this.name, this.pre, this.mid, this.prefi, this.fin,
                 average, remarks);
         
